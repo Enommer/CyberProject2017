@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 400 vural_server_key_pair.pem
+ssh -i "vural_server_key_pair.pem" ec2-user@ec2-34-224-223-107.compute-1.amazonaws.com

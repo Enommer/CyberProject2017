@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS-Vuforia-Markerless-Project-master.Plugins", "GPS-Vuforia-Markerless-Project-master.Plugins.csproj", "{C1AD2702-F35F-3B41-EADA-F8000E4B3EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS-Vuforia-Markerless-Project-master", "GPS-Vuforia-Markerless-Project-master.csproj", "{5289FFA3-DF68-CEFB-2962-6523D7C7BEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS-Vuforia-Markerless-Project-master.Editor.Plugins", "GPS-Vuforia-Markerless-Project-master.Editor.Plugins.csproj", "{A34DA49A-B508-F49F-74AA-0D449A3233D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS-Vuforia-Markerless-Project-master.Editor", "GPS-Vuforia-Markerless-Project-master.Editor.csproj", "{391535E2-B4E8-B4B9-00AE-B538BD0165BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1AD2702-F35F-3B41-EADA-F8000E4B3EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AD2702-F35F-3B41-EADA-F8000E4B3EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AD2702-F35F-3B41-EADA-F8000E4B3EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AD2702-F35F-3B41-EADA-F8000E4B3EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5289FFA3-DF68-CEFB-2962-6523D7C7BEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5289FFA3-DF68-CEFB-2962-6523D7C7BEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5289FFA3-DF68-CEFB-2962-6523D7C7BEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5289FFA3-DF68-CEFB-2962-6523D7C7BEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34DA49A-B508-F49F-74AA-0D449A3233D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34DA49A-B508-F49F-74AA-0D449A3233D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34DA49A-B508-F49F-74AA-0D449A3233D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34DA49A-B508-F49F-74AA-0D449A3233D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391535E2-B4E8-B4B9-00AE-B538BD0165BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391535E2-B4E8-B4B9-00AE-B538BD0165BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391535E2-B4E8-B4B9-00AE-B538BD0165BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391535E2-B4E8-B4B9-00AE-B538BD0165BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
